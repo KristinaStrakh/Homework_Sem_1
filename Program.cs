@@ -73,7 +73,7 @@ Console.Write("Введите число: ");
 int N = Convert.ToInt32(Console.ReadLine());
 int sum = 2;
 
-while(sum<N)
+while(sum<=N)
 
 {
     Console.Write (sum + " ");
